@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='FirebaseLoginApp'
+rootProject.name='Lab1'

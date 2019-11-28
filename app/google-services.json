@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "244090972006",
-    "firebase_url": "https://fir-loginapp-fb3dd.firebaseio.com",
-    "project_id": "fir-loginapp-fb3dd",
-    "storage_bucket": "fir-loginapp-fb3dd.appspot.com"
+    "project_number": "815236510624",
+    "firebase_url": "https://androidlab-d5015.firebaseio.com",
+    "project_id": "androidlab-d5015",
+    "storage_bucket": "androidlab-d5015.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:244090972006:android:a96c2e5d3d36baf3cc8aa7",
+        "mobilesdk_app_id": "1:815236510624:android:96dc256451db563d656ac5",
         "android_client_info": {
-          "package_name": "com.example.firebaseloginapp"
+          "package_name": "com.example.lab1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "244090972006-mpthdnco5irc59loe34h6v7qh99q07i8.apps.googleusercontent.com",
+          "client_id": "815236510624-pi03imb61402ksbj6spqvqokif4p0gg3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA1RzgH7gnUNHCWre6Rl3zh_akCOZ9R1fM"
+          "current_key": "AIzaSyCoyIOIFwiNU0LIJrE27F2WULr4rC60zDo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "244090972006-mpthdnco5irc59loe34h6v7qh99q07i8.apps.googleusercontent.com",
+              "client_id": "815236510624-pi03imb61402ksbj6spqvqokif4p0gg3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
